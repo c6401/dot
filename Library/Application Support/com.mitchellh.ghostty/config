@@ -1,0 +1,8 @@
+#keybind = global:shift+space=toggle_quick_terminal
+#keybind = global:control+space=toggle_quick_terminal
+#keybind = global:option+space=toggle_quick_terminal
+#quick-terminal-animation-duration = 0.01
+macos-option-as-alt = true
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+#keybind = global:ctrl+option+grave_accent=toggle_quick_terminal
+copy-on-select = clipboard
